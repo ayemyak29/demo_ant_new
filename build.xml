@@ -1,0 +1,6 @@
+<?xml version ="1.0"?>
+<project name ="Hello world project" default="info">
+	<traget name="info">
+		<echo> Hello world - welcome to simplilearn</eccho>
+	</traget>
+</project>
