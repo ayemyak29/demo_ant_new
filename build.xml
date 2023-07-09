@@ -1,6 +1,6 @@
 <?xml version ="1.0"?>
 <project name ="Hello world project" default="info">
-	<traget name="info">
+	<target name="info">
 		<echo> Hello world - Welcome to simplilearn</echo>
-	</traget>
+	</target>
 </project>
